@@ -1,1 +1,1 @@
-print("data extracted from mysql")
+print("Extract Data FRom MYSQL")

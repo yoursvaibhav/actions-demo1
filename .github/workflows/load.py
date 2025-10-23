@@ -1,1 +1,1 @@
-print("Data loaded to ADLS")
+print("Data Loaded to ADLS")
